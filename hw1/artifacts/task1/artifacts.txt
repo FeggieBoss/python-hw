@@ -1,0 +1,13 @@
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task1$ python3 main.py main.py > output.txt
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task1$ nl -b a main.py > answer.txt
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task1$ diff output.txt answer.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task1$
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task1$ python3 main.py
+input1
+     1	input1
+input2
+     2	input2
+input3
+     3	input3
+     
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task1$

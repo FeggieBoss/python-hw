@@ -1,0 +1,43 @@
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ python3 main.py 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+182
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ python3 main.py main.py main.py > output1.txt
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ tail main.py main.py > answer1.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ diff output1.txt answer1.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ python3 main.py main.py > output2.txt
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ tail main.py > answer2.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$ diff output2.txt answer2.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task2$

@@ -1,0 +1,16 @@
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ wc
+abcde
+f
+      2       2       8
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ python3 main.py
+abcde
+f
+      2       1       8
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ python3 main.py main.py > output1.txt
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ wc main.py > answer1.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ diff output1.txt answer1.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ python3 main.py main.py main.py > output2.txt
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ wc main.py main.py > answer2.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$ diff output2.txt answer2.txt 
+feggie@feggie-NBLK-WAX9X:~/MyData/python-hw/hw1/task3$

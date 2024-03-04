@@ -1,0 +1,12 @@
+     1	import sys
+     2	
+     3	format = '%6d\t%s'
+     4	
+     5	input = sys.stdin
+     6	
+     7	if len(sys.argv) > 1:
+     8	    input = open(sys.argv[1])
+     9	
+    10	for i, line in enumerate(input):
+    11	    print(format % (i + 1, line), end='')
+    12	print()
