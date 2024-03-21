@@ -1,0 +1,26 @@
+{% set name = "latex" %}
+{% set version = "0.0.1" %}
+
+package:
+  name: "{{ name }}"
+  version: "{{ version }}"
+
+source:
+  path: .
+
+build:
+  noarch: python
+  number: 0
+  script: python -m pip install --no-deps --ignore-installed .
+
+requirements:
+  build:
+    - setuptools
+    - python
+
+test:
+  source_files:
+    - latex/latex.py
+    - latex/__init__.py
+  imports:
+    - latex

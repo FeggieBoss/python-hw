@@ -1,0 +1,6 @@
+name: env
+channels:
+   - feggieboss
+dependencies:
+   - python=3.10
+   - latex
