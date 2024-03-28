@@ -1,0 +1,18 @@
+2024-03-28 22:58:06.654   stdin_watcher: received message from <stdin>
+>>> [3cf6aa22f6]wefwefwef
+
+2024-03-28 22:58:06.655   stdin_watcher: send message to <lower_process>
+>>> [3cf6aa22f6]wefwefwef
+
+2024-03-28 22:58:07.788   stdin_watcher: received message from <stdin>
+>>> [1e846f715d]reergre
+
+2024-03-28 22:58:07.788   stdin_watcher: send message to <lower_process>
+>>> [1e846f715d]reergre
+
+2024-03-28 22:58:08.783   stdin_watcher: received message from <stdin>
+>>> [3314bc68d7]Exit
+
+2024-03-28 22:58:08.783   stdin_watcher: send message to <lower_process>
+>>> [3314bc68d7]Exit
+

@@ -1,0 +1,5 @@
+Task: fib(33)
+Measuring time of running 10 tasks
+Synchronous execution: 11.079926252365112
+Multithreading execution: 18.372353076934814
+Multiprocessing execution 2.7023539543151855

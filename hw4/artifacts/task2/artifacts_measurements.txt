@@ -1,0 +1,80 @@
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 1 tasks
+Multithreading execution: 1.3409216403961182
+Multiprocessing execution 1.3167071342468262
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 2 tasks
+Multithreading execution: 2.6532158851623535
+Multiprocessing execution 2.2813212871551514
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 3 tasks
+Multithreading execution: 2.4300146102905273
+Multiprocessing execution 2.6887660026550293
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 4 tasks
+Multithreading execution: 2.9227445125579834
+Multiprocessing execution 3.069126844406128
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 5 tasks
+Multithreading execution: 3.081831455230713
+Multiprocessing execution 3.053229331970215
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 6 tasks
+Multithreading execution: 2.9639410972595215
+Multiprocessing execution 2.9012930393218994
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 7 tasks
+Multithreading execution: 3.1918163299560547
+Multiprocessing execution 3.1019365787506104
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 8 tasks
+Multithreading execution: 2.894200086593628
+Multiprocessing execution 2.947248697280884
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 9 tasks
+Multithreading execution: 3.0944604873657227
+Multiprocessing execution 3.142274856567383
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 10 tasks
+Multithreading execution: 2.8482329845428467
+Multiprocessing execution 2.710130453109741
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 11 tasks
+Multithreading execution: 2.8166635036468506
+Multiprocessing execution 2.7161431312561035
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 12 tasks
+Multithreading execution: 2.473503589630127
+Multiprocessing execution 2.7534360885620117
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 13 tasks
+Multithreading execution: 2.7692461013793945
+Multiprocessing execution 3.0271213054656982
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 14 tasks
+Multithreading execution: 3.0518555641174316
+Multiprocessing execution 2.66682767868042
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 15 tasks
+Multithreading execution: 2.4971046447753906
+Multiprocessing execution 2.703840732574463
+
+Task: integrate(f=<built-in function cos>, a=0, b=1.5707963267948966, n_iter=10000000)
+Measuring time of running 16 tasks
+Multithreading execution: 2.3312628269195557
+Multiprocessing execution 2.202040433883667
+
